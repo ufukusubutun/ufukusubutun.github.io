@@ -2,15 +2,15 @@
   - firstname: ["Shivendra", "Shivendra S.", "S.", "S. S."]
     url: https://engineering.nyu.edu/faculty/shivendra-panwar
 
-"Fraida"
+"Fraida":
   - firstname: ["Fraida", "F."]
     url: https://witestlab.poly.edu/~ffund/
 
-"Murali"
+"Murali":
   - firstname: ["Murali", "M."]
     url: https://www.bell-labs.com/about/researcher-profiles/muralikodialam
 
-"Lakshman"
+"Lakshman":
   - firstname: ["T.V.", "Tv.", "T, V."]
     url: https://www.bell-labs.com/about/researcher-profiles/tvlakshman/
 
