@@ -3,10 +3,20 @@
 
 @string{aps = {American Physical Society,}}
 
-@INPROCEEDINGS{rackHPSR,
+@article{obliviousML,
+  author={Usubütün, Ufuk and Kodialam, Murali and Lakshman, T.V. and Panwar, Shivendra},
+  booktitle={GLOBECOM 2023 - IEEE Global Communications Conference}, 
+  title={Oblivious Routing Using Learning Methods}, 
+  abstract={Oblivious routing of network traffic uses pre-determined paths that do not change with changing traffic patterns. It has the benefit of using a fixed network configuration while robustly handling a range of varying and unpredictable traffic. Theoretical advances have shown that the benefits of oblivious routing are achievable without compromising much capacity efficiency. For oblivious routing, we only assume knowledge of the ingress/egress capacities of the edge nodes through which traffic enters or leaves the network. All traffic patterns possible subject to the ingress/egress capacity constraints (also known as the hose constraints) are permissible and are to be handled using oblivious routing. We use the widely deployed segment routing method for route control. Furthermore, for ease of deployment and to not deviate too much from conventional shortest path routing, we restrict paths to be 2-segment paths (the composition of two shortest path routed segments). We solve the 2-segment oblivious routing problem for all permissible traffic matrices (which can be infinitely-many). We develop a new adversarial and machine-learning driven approach that uses an iterative gradient descent method to solve the routing problem with worst-case performance guarantees. Additionally, the parallelism involved in descent methods allows this method to scale well with the network size making it amenable for use in practice.},
+  year={2023},
+  volume={},
+  number={},
+  pages={To Appear}}
+
+@article{rackHPSR,
   bibtex_show={true},
   author={Usubütün, Ufuk and Fund, Fraida and Panwar, Shivendra},
-  booktitle={2023 IEEE 24th International Conference on High Performance Switching and Routing (HPSR)}, 
+  booktitle={HPSR 2023 - IEEE 24th International Conference on High Performance Switching and Routing}, 
   title={Do Switches Still Need to Deliver Packets in Sequence?}, 
   abstract={Internet switches become harder and costlier to build for higher line rates and switch capacities. In-sequence delivery of packets has traditionally been a constraint on switch designs because TCP loss detection was considered vulnerable to out-of-sequence arrivals. For this reason, extremely efficient and simple designs, such as the Load Balanced Birkhoff-von Neumann Switch, were considered impractical. However, we reevaluate this constraint considering modern TCP implementations with loss detection algorithms like Recent Acknowledgment (RACK) that are more resilient to out-of-order arrivals. In a set of testbed experiments representative of wide area core networks, we evaluated the performance of TCP flows traversing a load balanced switch that reorders some packets within a flow. We show that widely deployed and standard TCP implementations of the last decade achieve similar performance when traversing a load balanced switch as they do when there is no reordering. Furthermore, we also verified that an increase in the line rate leads to favorable conditions for time based loss detection methods, such as the one used in RACK. Our results, if further validated, suggest that switch designs that were previously thought to be unsuitable can potentially be utilized, thanks to the relaxation of the in-sequence delivery constraint.},
   year={2023},
@@ -16,15 +26,7 @@
   preview={hpsr23large.png},
   doi={10.1109/HPSR57248.2023.10147992}}
 
-@INPROCEEDINGS{obliviousML,
-  author={Usubütün, Ufuk and Kodialam, Murali and Lakshman, T.V. and Panwar, Shivendra},
-  booktitle={GLOBECOM 2023 - 2023 IEEE Global Communications Conference}, 
-  title={Oblivious Routing Using Learning Methods}, 
-  abstract={Oblivious routing of network traffic uses pre-determined paths that do not change with changing traffic patterns. It has the benefit of using a fixed network configuration while robustly handling a range of varying and unpredictable traffic. Theoretical advances have shown that the benefits of oblivious routing are achievable without compromising much capacity efficiency. For oblivious routing, we only assume knowledge of the ingress/egress capacities of the edge nodes through which traffic enters or leaves the network. All traffic patterns possible subject to the ingress/egress capacity constraints (also known as the hose constraints) are permissible and are to be handled using oblivious routing. We use the widely deployed segment routing method for route control. Furthermore, for ease of deployment and to not deviate too much from conventional shortest path routing, we restrict paths to be 2-segment paths (the composition of two shortest path routed segments). We solve the 2-segment oblivious routing problem for all permissible traffic matrices (which can be infinitely-many). We develop a new adversarial and machine-learning driven approach that uses an iterative gradient descent method to solve the routing problem with worst-case performance guarantees. Additionally, the parallelism involved in descent methods allows this method to scale well with the network size making it amenable for use in practice.},
-  year={2023},
-  volume={},
-  number={},
-  pages={To Appear}}
+
 
 @book{einstein1956investigations,
   bibtex_show={true},
