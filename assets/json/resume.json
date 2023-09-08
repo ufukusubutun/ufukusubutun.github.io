@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Ufuk Usubütün",
+    "label": "PhD Candidate",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "usubutun [at] nyu [dot] edu",
+    "__phone__": "(912) 123-4567",
+    "__url__": "https://alshedivat.github.io/al-folio/",
+    "summary": "A Turkish-born Electrical Engineering PhD Candidate at NYU, based in New York City, working under the supervision of Prof. Shiv Panwar. My research interests lie in testing and analysis of cross layer interactions of network protocols in both experimental and analytical domains. I am actively working on transport and network layer protocols within a broader context of reliability.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "370 Jay St Fl 9",
+      "postalCode": "NY 11201",
+      "city": "Brooklyn",
       "countryCode": "US",
-      "region": "California"
+      "region": "New York"
     },
     "profiles": [
       {
