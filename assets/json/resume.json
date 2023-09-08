@@ -63,12 +63,16 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Turkish",
       "fluency": "Native speaker"
     },
     {
-      "language": "English",
-      "fluency": "Fluent"
+      "language": "French",
+      "fluency": "Proficient"
     }
   ],
   "interests": [],
