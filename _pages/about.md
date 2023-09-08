@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: Electrical Engineering PhD Candidate at NYU Tandon.
+subtitle: Electrical Engineering PhD Candidate at NYU Tandon. Brooklyn, NY.
 
 profile:
   align: right
   image: ufi.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Computer Networks and Protocols</p>
+    <p>Computer Networks</p>
+    <p>Protocols</p>
     <p>Cross-Layer Analysis</p>
-    <p>Brooklyn, NY</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
