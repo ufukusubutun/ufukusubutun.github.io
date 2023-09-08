@@ -1,18 +1,18 @@
 "Shiv":
   - firstname: ["Shivendra", "Shivendra S.", "S.", "S. S."]
-  url: https://engineering.nyu.edu/faculty/shivendra-panwar
+    url: https://engineering.nyu.edu/faculty/shivendra-panwar
 
 "Fraida"
   - firstname: ["Fraida", "F."]
-  url: https://witestlab.poly.edu/~ffund/
+    url: https://witestlab.poly.edu/~ffund/
 
 "Murali"
   - firstname: ["Murali", "M."]
-  url: https://www.bell-labs.com/about/researcher-profiles/muralikodialam
+    url: https://www.bell-labs.com/about/researcher-profiles/muralikodialam
 
 "Lakshman"
   - firstname: ["T.V.", "Tv.", "T, V."]
-  url: https://www.bell-labs.com/about/researcher-profiles/tvlakshman/
+    url: https://www.bell-labs.com/about/researcher-profiles/tvlakshman/
 
 "Adams":
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
