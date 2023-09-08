@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: Electrical Engineering PhD Candidate at NYU Tandon. Computer Networks and Protocols. Cross-Layer Analysis.
+subtitle: Electrical Engineering PhD Candidate at NYU Tandon.
 
 profile:
   align: right
   image: ufi.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>NYU Tandon School of Engineering</p>
-    <p>Electrical and Computer Engineering Dept.</p>
-    <p>Brooklyn, New York</p>
+    <p>Computer Networks and Protocols</p>
+    <p>Cross-Layer Analysis</p>
+    <p>Brooklyn, NY</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Greetings from New York City! This is Ufuk! I am still building my personal website! So please excuse the mess and check back again soon!
+Greetings from New York City! This is Ufuk! I am still building my personal & professional website! So please excuse the mess and check back again soon!
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
