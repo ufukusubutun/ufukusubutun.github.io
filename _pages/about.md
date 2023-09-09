@@ -21,7 +21,9 @@ social: true  # includes social icons at the bottom of the page
 
 Greetings from New York City! This is Ufuk! I am still building my personal & professional website! So please excuse the mess and check back again soon!
 
+Inspiring reads:
 
+[Creating a Mathematical Theory of Computer Networks](https://www.researchgate.net/publication/220244226_Creating_a_Mathematical_Theory_of_Computer_Networks) by Leonard Kleinrock.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
