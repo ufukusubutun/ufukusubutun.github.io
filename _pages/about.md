@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 Greetings from New York City! This is Ufuk! I am still building my personal & professional website! So please excuse the mess and check back again soon!
 
-TODO: ADD UP-TO-DATE CV
+[My Resume](assets/pdf/Ufuk_Usubutun_Resume.pdf)
 
 Inspiring reads:
 
