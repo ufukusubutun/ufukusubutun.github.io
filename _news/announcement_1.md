@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper titled 'Do Switches Still Need to Deliver Packets in Sequence' won the BEST PAPER AWARD at the IEEE HPSR Conference!
+Our paper *Do Switches Still Need to Deliver Packets in Sequence* won the **BEST PAPER AWARD** at the IEEE HPSR Conference!
