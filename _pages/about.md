@@ -21,6 +21,8 @@ social: true  # includes social icons at the bottom of the page
 
 Greetings from New York City! This is Ufuk! I am still building my personal & professional website! So please excuse the mess and check back again soon!
 
+TODO: ADD UP-TO-DATE CV
+
 Inspiring reads:
 
 [Creating a Mathematical Theory of Computer Networks](https://www.researchgate.net/publication/220244226_Creating_a_Mathematical_Theory_of_Computer_Networks) by Leonard Kleinrock.
