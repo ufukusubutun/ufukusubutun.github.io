@@ -23,6 +23,8 @@ Greetings from New York City! This is Ufuk! I am still building my personal & pr
 
 [My Resume](assets/pdf/Ufuk_Usubutun_Resume.pdf)
 
+The publication page also contains pre-prints and presentation slides (when available).
+
 Inspiring reads:
 
 [Creating a Mathematical Theory of Computer Networks](https://www.researchgate.net/publication/220244226_Creating_a_Mathematical_Theory_of_Computer_Networks) by Leonard Kleinrock.
