@@ -19,9 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Greetings from New York City! This is Ufuk! I am still building my personal & professional website! So please excuse the mess and check back again soon!
-
-[My Resume](assets/pdf/Ufuk_Usubutun_Resume.pdf)
+Greetings from New York City! This is Ufuk! And here's [my resumé](assets/pdf/Ufuk_Usubutun_Resume.pdf)
 
 I am specializing in the analysis of network protocols (MAC and above) through analytical modeling and experimental evalutaion. Since the start of my PhD at NYU, I interned with Nokia Bell Labs (on routing optimization) and with AT&T Labs Research (on 3GPP RRC Layer Modeling). I am actively seeking an internship for Summer 2024!
 
