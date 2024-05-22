@@ -31,7 +31,7 @@ Inspiring reads/resources:
 
 [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654) by Don Norman.
 
-[Insipiring Mathematics and Visualizations: 3Blue1Brown Youtube Channel](https://www.youtube.com/@3blue1brown)
+[3Blue1Brown Youtube Channel](https://www.youtube.com/@3blue1brown) - Insipiring Mathematics and Visualizations
 
 <!---
 your comment goes here
