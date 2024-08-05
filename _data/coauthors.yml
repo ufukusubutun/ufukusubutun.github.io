@@ -14,6 +14,18 @@
   - firstname: ["T.V.", "Tv.", "T. V."]
     url: https://www.bell-labs.com/about/researcher-profiles/tvlakshman/
 
+"Hiltunen":
+  - firstname: ["Matti", "M."]
+    url: https://scholar.google.com/citations?hl=en&user=eopqwfwAAAAJ
+
+"Narayanan":
+  - firstname: ["Shankar", "S.", "S.P.", "Shankaranarayanan Puzhavakath"]
+    url: https://sites.google.com/site/shankarpnsn/
+
+"Gomes":
+  - firstname: ["Andre", "André", "A."]
+    url: https://www.gomesa.me/
+
 "Adams":
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
