@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 Greetings from New York City! This is Ufuk! And here's [my résumé](assets/pdf/Ufuk_Usubutun_Resume.pdf)
 
-I am specializing in the analysis of network protocols (MAC and above) through analytical modeling and experimental evalutaion. Since the start of my PhD at NYU, I interned with Nokia Bell Labs (on routing optimization) and with AT&T Labs Research (on 3GPP RRC Layer Modeling). I will be joining Marvell Semiconductors for a Switch Architecture Design Engineer internship role during Summer 2024!
+I am specializing in the analysis of network protocols (MAC and above) through analytical modeling and experimental evalutaion. Since the start of my PhD at NYU, I interned with Nokia Bell Labs (on routing optimization), with AT&T Labs Research (on 5G RRC Layer Modeling) and Marvell Semiconductor (on Ultra Ethernet Transport Protocols).
 
 The publication page also contains pre-prints and presentation slides.
 
