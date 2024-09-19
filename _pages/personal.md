@@ -3,7 +3,7 @@ layout: page
 permalink: /personal/
 title: personal
 description: My personal corner
-nav: false
+nav: true
 nav_order: 5
 ---
 
