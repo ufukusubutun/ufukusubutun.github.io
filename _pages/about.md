@@ -21,19 +21,18 @@ social: true  # includes social icons at the bottom of the page
 
 Greetings from New York City! This is Ufuk! And here's [my résumé](assets/pdf/Ufuk_Usubutun_Resume.pdf)
 
-I am specializing in the analysis of network protocols (MAC and above) through analytical modeling and experimental evalutaion. Since the start of my PhD at NYU, I interned with Nokia Bell Labs (on routing optimization), with AT&T Labs Research (on 5G RRC Layer Modeling) and Marvell Semiconductor (on Ultra Ethernet Transport Protocols).
+I started my PhD in 2020 and I'm specializing in the analysis of network protocols and infrastructure through analytical modeling and experimental evalutaion. Since the start of my PhD at NYU, I interned with Nokia Bell Labs (on routing optimization), with AT&T Labs Research (on 5G RRC Layer Modeling) and Marvell Semiconductor (on Ultra Ethernet Transport Protocols).
 
 The publication page also contains pre-prints and presentation slides.
 
+
+
 Inspiring stuff:
 
-[Creating a Mathematical Theory of Computer Networks](https://www.researchgate.net/publication/220244226_Creating_a_Mathematical_Theory_of_Computer_Networks) by Leonard Kleinrock.
-
-[The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654) by Don Norman.
-
-[3Blue1Brown Youtube Channel](https://www.youtube.com/@3blue1brown) - Insipiring Mathematics and Visualizations
-
-[Stations of the Elevated](https://www.youtube.com/watch?v=J0iqF6A4vRI) - Trailer for an inspiring New York City audiovisual documentary with soundtrack by the legendary Charles Mingus.
+[Creating a Mathematical Theory of Computer Networks](https://www.researchgate.net/publication/220244226_Creating_a_Mathematical_Theory_of_Computer_Networks) by Leonard Kleinrock.\
+[The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654) by Don Norman.\
+[3Blue1Brown Youtube Channel](https://www.youtube.com/@3blue1brown) - Insipiring Mathematics and Visualizations\
+[Stations of the Elevated](https://www.youtube.com/watch?v=J0iqF6A4vRI) - Trailer for an inspiring New York City audiovisual documentary with soundtrack by the legendary Charles Mingus.\
 
 <!---
 your comment goes here
