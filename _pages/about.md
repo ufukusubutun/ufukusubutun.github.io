@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 Greetings from New York City! This is Ufuk! And here's [my résumé](assets/pdf/Ufuk_Usubutun_Resume.pdf)
 
-I started my PhD in 2020 and I'm specializing in the analysis of network protocols and infrastructure through analytical modeling and experimental evalutaion. Since the start of my PhD at NYU, I interned with Nokia Bell Labs (on routing optimization), with AT&T Labs Research (on 5G RRC Layer Modeling) and Marvell Semiconductors (on Ultra Ethernet Transport Protocols).
+I am specializing in the analysis of network protocols and infrastructure through analytical modeling and experimental evalutaion. Since the start of my PhD at NYU in 2020, I interned with *Nokia Bell Labs* (on routing optimization), with *AT&T Labs Research* (on 5G RRC Layer Modeling) and *Marvell Semiconductors* (on Ultra Ethernet Transport Protocols).
 
 The [publications](https://ufukusubutun.github.io/publications/) page also contains pre-prints and presentation slides.
 
