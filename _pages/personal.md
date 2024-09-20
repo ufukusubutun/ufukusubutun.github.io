@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-
+![NYC street chimney.](https://compote.slate.com/images/0973e596-3e19-4b3a-ab6d-c2adac7abe57.jpeg?crop=568%2C346%2Cx0%2Cy0&width=1920)
 
 
 Some stuff I find inspiring to get us started with:
