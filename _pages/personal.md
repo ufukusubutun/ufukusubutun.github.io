@@ -22,6 +22,6 @@ Some stuff I find inspiring to get us started with:
 [3Blue1Brown Youtube Channel](https://www.youtube.com/@3blue1brown) - Insipiring Mathematics and Visualizations
 
 **On NYC and Jazz:**\
-[Stations of the Elevated](https://www.youtube.com/watch?v=J0iqF6A4vRI) - Trailer for an inspiring New York City audiovisual documentary with soundtrack by the legendary Charles Mingus.
+[Stations of the Elevated](https://www.youtube.com/watch?v=J0iqF6A4vRI) - The trailer of an inspiring New York City audiovisual documentary with soundtrack by the legendary Charles Mingus.
 
 more to come...
