@@ -28,7 +28,7 @@ jobs:
         bundler-cache: true
     - name: Install and Build 🔧
       run: |
-        apt install python3-jupyter
+        pipx install --upgrade jupyter
         npm install -g mermaid.cli
         export JEKYLL_ENV=production
         bundle exec jekyll build
