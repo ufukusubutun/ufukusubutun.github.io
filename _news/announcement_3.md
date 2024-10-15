@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper *Oblivious Routing Using Learning Methods* is accepted for presentation at the IEEE GLOBECOM 2023 Conference!
+Our joint paper with Nokia Bell Labs, *Oblivious Routing Using Learning Methods* is accepted for presentation at the IEEE GLOBECOM 2023 Conference!
