@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Computer Networks</p>
-    <p>Protocols</p>
+    <p>Standards</p>
     <p>Cross-Layer Analysis</p>
 
 news: true  # includes a list of news items
