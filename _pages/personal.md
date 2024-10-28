@@ -24,4 +24,8 @@ Some stuff I find inspiring to get us started with:
 **On NYC and Jazz:**\
 [Stations of the Elevated](https://www.youtube.com/watch?v=J0iqF6A4vRI) - The trailer of an inspiring New York City audiovisual documentary with soundtrack by the legendary Charles Mingus.
 
+**Two great Jazz radio stations I support:**\
+[KMHD](https://www.kmhd.org/) - Great contemporary Jazz, crafted in Portland, OR.\
+[WBGO](https://www.wbgo.org/) - When you're longing for the classics, based in Newark NJ.
+
 more to come...
