@@ -26,6 +26,6 @@ Some stuff I find inspiring to get us started with:
 
 **Two great Jazz radio stations I support (with my PhD stipend):**\
 [KMHD](https://www.kmhd.org/) - Great contemporary Jazz, crafted in Portland, OR.\
-[WBGO](https://www.wbgo.org/) - When you're longing for the classics, based in Newark NJ.
+[WBGO](https://www.wbgo.org/) - When you're longing for the classics, based in Newark, NJ.
 
 more to come...
