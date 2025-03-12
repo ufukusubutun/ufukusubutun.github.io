@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 Greetings from New York City! This is Ufuk! And here's [my résumé](assets/pdf/Ufuk_Usubutun_Resume.pdf)
 
-My PhD focuses on the cross-layer analysis and modeling of networking protocols and systems. I have extensive experience interpreting standards in different realms (e.g. IETF, 3GPP, Open-RAN, Ultra Ethernet) and protocol implementations (e.g. Linux TCP). I conduct my experiments on networking testbeds (e.g. Cloudlab, Fabric) and I am experienced with Markov modeling techniques. I also have some experience optimizing routing algorithms.
+My PhD focuses on the cross-layer analysis and modeling of networking protocols and systems. I have extensive experience interpreting standards in different realms (e.g. IETF, 3GPP, Open-RAN, Ultra Ethernet) and protocol implementations (e.g. Linux TCP). I conduct my experiments on networking testbeds (e.g. Cloudlab, Fabric) and I am experienced with analytical modeling of queuing systems. I am also experienced with network optimization.
 
 Since the start of my PhD at NYU in 2020, I interned with *Nokia Bell Labs* (on routing optimization), with *AT&T Labs Research* (on 5G RRC Layer Modeling) and *Marvell Semiconductors* (on Ultra Ethernet Transport Protocols). I am also still actively working with *AT&T Labs Research* as a research collaborator.
 
