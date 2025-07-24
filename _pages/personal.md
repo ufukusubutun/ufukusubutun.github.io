@@ -13,8 +13,7 @@ nav_order: 5
 Some stuff I find inspiring to get us started with:
 
 
-**On Maintaining a Scientific Mindset and Good Teams**:\
-
+**On Maintaining a Scientific Mindset and Good Teams**\
 [Think Again: The Power of Knowing What You Don't Know](https://www.amazon.com/Think-Again-Power-Knowing-What/dp/1984878107) by Adam Grant. - A great book covering the value and difficulty of rethinking and reevaluating ideas, including by designers, engineers and system builders. Also contains some great points on the helpfulness of task conflicts and how they are different from personal conflicts.
 
 **On Product Design:**\
