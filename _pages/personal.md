@@ -12,18 +12,19 @@ nav_order: 5
 
 Some stuff I find inspiring to get us started with:
 
-**On Networks:**\
-[Creating a Mathematical Theory of Computer Networks](https://www.researchgate.net/publication/220244226_Creating_a_Mathematical_Theory_of_Computer_Networks) by Leonard Kleinrock.
 
-**On Maintaining a Scientific Mindset and Good Teams**\
+**On Maintaining a Scientific Mindset and Good Teams**:\
 
 [Think Again: The Power of Knowing What You Don't Know](https://www.amazon.com/Think-Again-Power-Knowing-What/dp/1984878107) by Adam Grant. - A great book covering the value and difficulty of rethinking and reevaluating ideas, including by designers, engineers and system builders. Also contains some great points on the helpfulness of task conflicts and how they are different from personal conflicts.
 
 **On Product Design:**\
-[The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654) by Don Norman.
+[The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654) by Don Norman. - If you can't figure out whether to pull or push a door at a single glance, that is bad design!
 
 **On Systems and Failures:**\
-[Mentour Pilot Youtube Channel](https://www.youtube.com/@MentourPilot) - A great channel covering air crash investigations with ample focus on system and process design and how catastrophic failures occur following the Swiss cheese model
+[Mentour Pilot Youtube Channel](https://www.youtube.com/@MentourPilot) - A great channel covering air crash investigations with ample focus on system and process design and how catastrophic failures occur following the Swiss cheese model.
+
+**On Networks:**\
+[Creating a Mathematical Theory of Computer Networks](https://www.researchgate.net/publication/220244226_Creating_a_Mathematical_Theory_of_Computer_Networks) by Leonard Kleinrock.
 
 **On Pedagogy and Math:**\
 [3Blue1Brown Youtube Channel](https://www.youtube.com/@3blue1brown) - Insipiring Mathematics and Visualizations
