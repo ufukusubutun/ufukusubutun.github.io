@@ -23,7 +23,9 @@ Greetings from New York City! This is Ufuk! And here's [my résumé](assets/pdf/
 
 In my research, I start with real-world networking systems and protocols, then build the models that make sense of them. In doing so, I take a cross-layer approach. I have extensive experience interpreting standards in different realms (e.g. IETF, 3GPP, Open-RAN, Ultra Ethernet) and protocol implementations (e.g. Linux TCP). I conduct my experiments on networking testbeds (e.g. Cloudlab, Fabric) and I am experienced with analytical modeling of queuing systems. I am also experienced with network optimization.
 
-Since the start of my PhD at NYU in 2020, I interned with *Nokia Bell Labs* (on routing optimization), with *AT&T Labs Research* (on 5G RRC Layer Modeling) and *Marvell Semiconductors* (on Ultra Ethernet Transport Protocols). I am also still actively involved with *AT&T Labs Research* as a research collaborator.
+Since the start of my PhD at NYU in 2020, I interned with *Nokia Bell Labs* (on routing optimization), with *AT&T Labs Research* (on 5G RRC Layer Modeling) and *Marvell Technology* (on Ultra Ethernet Transport Protocols). I am also still actively involved with *AT&T Labs Research* as a research collaborator.
+
+I will be joining *Marvell* full-time in the summer as a Staff Engineer in the Switch Architecture team!
 
 The [publications](https://ufukusubutun.github.io/publications/) page also contains pre-prints and presentation slides.
 
