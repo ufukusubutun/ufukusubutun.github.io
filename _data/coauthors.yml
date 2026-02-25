@@ -34,6 +34,10 @@
   - firstname: ["Andre", "André", "A."]
     url: https://www.gomesa.me/
 
+"Gomes*":
+  - firstname: ["Andre", "André", "A."]
+    url: https://www.gomesa.me/
+
 "Adams":
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams

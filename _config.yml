@@ -275,7 +275,7 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Usubütün]
+  last_name: [Usubütün, Usubütün*]
   first_name: [Ufuk, U.]
 
   style: apa
